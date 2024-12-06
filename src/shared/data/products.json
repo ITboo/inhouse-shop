@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Slytherine",
+    "subtitle": "Stylish cafe chair",
+    "price": 2500,
+    "description": "",
+    "slug": "slytherine"
+  },
+  {
+    "id": 2,
+    "name": "Slytherine",
+    "subtitle": "Stylish cafe chair",
+    "price": 2500,
+    "description": "",
+    "slug": ""
+  },
+  {
+    "id": 2,
+    "name": "Slytherine",
+    "subtitle": "Stylish cafe chair",
+    "price": 2500,
+    "description": "",
+    "slug": ""
+  }
+]
