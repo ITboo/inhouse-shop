@@ -16,3 +16,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.hero{
+  background-image: url('/public/hero.jpg');
+  height: 717px;
+}

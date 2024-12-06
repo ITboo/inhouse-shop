@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <header className="flex justify-between items-center">
+    <header className="flex justify-between items-center py-[20px]">
       <Logo />
       <nav>
         <ul className="flex items-center gap-[75px]">

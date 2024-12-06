@@ -2,9 +2,9 @@ import LogoImg from './Logo.png'
 
 const Logo = () => {
   return (
-    <div className='flex items-center'>
+    <div className='flex items-center gap-2'>
     <img src={LogoImg} alt="inhouse" />
-    <span>InHouse</span>    
+    <span className='font-bold text-2xl'>InHouse</span>    
     </div>
   )
 }

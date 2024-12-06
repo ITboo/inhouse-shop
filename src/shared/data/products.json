@@ -9,18 +9,18 @@
   },
   {
     "id": 2,
-    "name": "Slytherine",
+    "name": "Leviosa",
     "subtitle": "Stylish cafe chair",
-    "price": 2500,
+    "price": 1500,
     "description": "",
-    "slug": ""
+    "slug": "leviosa"
   },
   {
-    "id": 2,
-    "name": "Slytherine",
+    "id": 3,
+    "name": "Kedavra",
     "subtitle": "Stylish cafe chair",
-    "price": 2500,
-    "description": "",
-    "slug": ""
+    "price": 666,
+    "description": "fhgdkalja;f",
+    "slug": "kedavra"
   }
 ]
